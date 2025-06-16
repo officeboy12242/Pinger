@@ -1,0 +1,12 @@
+{
+  "name": "mirror-checker",
+  "version": "1.0.0",
+  "description": "Checks multiple mirror URLs for movie availability.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
