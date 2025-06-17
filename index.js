@@ -48,7 +48,7 @@ async function runCheckerLoop() {
     }
 
     console.log(`⏳ Waiting 5 minutes before next round...\n`);
-    await sleep(5 * 60 * 1000); // 5 minutes delay
+    await sleep(3 * 60 * 1000); // 5 minutes delay
   }
 }
 
