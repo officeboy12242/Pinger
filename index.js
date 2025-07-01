@@ -7,8 +7,8 @@ const SEARCH_TERM = 'RADIO%202003';
 
 const URLS = [
   { url: `https://pronoob-drive.vercel.app/?name=${SEARCH_TERM}`, type: 'vercel' },
-  { url: `https://pronoobdrive.onrender.com/Sct?search=${SEARCH_TERM}`, type: 'render' },
-  { url: `https://pronoobdrive-piya-ja-c-ky-j-a-sp-e-r-9.onrender.com/Sct?search=${SEARCH_TERM}`, type: 'render' },
+  { url: `https://pronoobdrive-j8z9.onrender.com/Sct?search=${SEARCH_TERM}`, type: 'render' },
+  { url: `https://pronoobdrive-piya-ja-c-ky-j-a-sp-e-r-9-keom.onrender.com/Sct?search=${SEARCH_TERM}`, type: 'render' },
   { url: `https://pronoobdrive-7w2p.onrender.com/Sct?search=${SEARCH_TERM}`, type: 'render' },
   { url: `https://pronoobdrive-swaraj.onrender.com/Sct?search=${SEARCH_TERM}`, type: 'render' }
 ];
