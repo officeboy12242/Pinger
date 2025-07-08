@@ -10,7 +10,7 @@ const URLS = [
   { url: `https://pronoobdrive-j8z9.onrender.com/Sct?search=${SEARCH_TERM}`, type: 'render' },
   { url: `https://pronoobdrive-piya-ja-c-ky-j-a-sp-e-r-9-keom.onrender.com/Sct?search=${SEARCH_TERM}`, type: 'render' },
   { url: `https://pronoobdrive-7w2p.onrender.com/Sct?search=${SEARCH_TERM}`, type: 'render' },
-  { url: `https://pronoobdrive-swaraj.onrender.com/Sct?search=${SEARCH_TERM}`, type: 'render' }
+  { url: `https://swarajdrive.onrender.com/Sct?search=${SEARCH_TERM}`, type: 'render' }
 ];
 
 const sleep = (ms) => new Promise((res) => setTimeout(res, ms));
